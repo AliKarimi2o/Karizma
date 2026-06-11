@@ -1,6 +1,5 @@
 {
   "name": "Karizma",
   "description": "A professional bilingual workspace, team task management, and productivity platform with AI co-pilot and Bale Bot integration.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": []
 }
